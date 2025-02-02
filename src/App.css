@@ -1,0 +1,6 @@
+#root {
+  height: 100dvh;
+  background: rgb(46,215,250);
+  background: linear-gradient(16deg, rgba(46,215,250,1) 0%, rgba(17,162,165,1) 33%, rgba(20,156,161,1) 69%, rgba(0,245,255,1) 100%);
+}
+
